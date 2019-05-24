@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: gainsboro;
+  display: inline;
+}
+.card {
+  background-color: rgb(81, 153, 153);
+  border-radius: 10%;
+  width: max-content;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  align-self: auto;
+}
+.card li {
+  list-style: none;
+}
+h2,
+h1,
+p {
+  color: antiquewhite;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: 50px;
+}
